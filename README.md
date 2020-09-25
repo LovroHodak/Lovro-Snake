@@ -21,3 +21,12 @@ DATA STRUCTURE
 
 
 
+
+LINKS
+
+trello
+
+https://trello.com/b/BwCVh3bJ/lovro-snake-game
+
+
+
